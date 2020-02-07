@@ -10,5 +10,5 @@ As a experienced Data Scientist and Graduated in Pharmacy and currently do a Mas
 * [LinkedIn](https://www.linkedin.com/in/paulo-jefferson-2bba01119/)
 
 
-* **Analisando os dados do Airbnb da cidade do Porto em Portugal** http://bit.ly/2Sxeads
+* **Analisando os dados do Airbnb da cidade do Porto em Portugal** : http://bit.ly/2Sxeads
 
