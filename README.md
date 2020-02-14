@@ -13,7 +13,7 @@ As a experienced Data Scientist and Graduated in Pharmacy and currently do a Mas
 * **Analisando os dados do Airbnb da cidade do Porto em Portugal** : http://bit.ly/2Sxeads
 * **Analisando os dados da Esquistossomose no estado do Ceará** : http://bit.ly/2w1YHu4
 * **Analisando os Feminicidios no Rio de Janeiro** : http://bit.ly/31YfdXZ
-* **Analisando os dados do novo Corona Vírus** :http://bit.ly/39F8Ewd
+* **Analisando os dados do novocoronavirus(2019-nCoV)** :http://bit.ly/39F8Ewd
 
 
 
